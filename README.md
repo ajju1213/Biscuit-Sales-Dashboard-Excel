@@ -4,6 +4,7 @@
 This project presents an interactive Sales and Profitability Dashboard built in Microsoft Excel to analyze revenue distribution, customer demographics, geographic performance, and profitability drivers.
 
 ## 📷 Dashboard Preview
+![Dashboard Screenshot](dashboard_preview.jpeg)
 
 
 ---
